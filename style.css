@@ -3,9 +3,11 @@
     width:15%; 
     float:left;
 }
-
 .input {
     display:inline;
     width:85%;
     float:left;
+}
+.checkbox {
+    margin-left: 0;
 }
